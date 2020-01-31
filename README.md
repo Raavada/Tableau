@@ -1,2 +1,2 @@
 # Tableau
-Dashboard for movie based upon director
+Dashboard for movie based on director
